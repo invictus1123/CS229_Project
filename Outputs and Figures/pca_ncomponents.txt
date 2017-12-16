@@ -1,0 +1,2 @@
+l1 svm pca components: 150 (95.09% explaiend variance)
+all features pca components: 227 (94.99% explained variance)

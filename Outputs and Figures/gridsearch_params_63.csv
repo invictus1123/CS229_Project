@@ -1,0 +1,5 @@
+The best parameters for model linl1 are {'C': 1.0} with a score of 0.77
+The best parameters for model linl2 are {'C': 0.10000000000000001} with a score of 0.78
+The best parameters for model poly are {'C': 10.0, 'degree': 3} with a score of 0.73
+The best parameters for model rbf are {'C': 100.0, 'gamma': 0.001} with a score of 0.78
+The best parameters for model logreg are {'C': 1.0} with a score of 0.78
